@@ -1,1 +1,3 @@
+// Both changes were okay
 Add different line
+New line to main branch
